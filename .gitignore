@@ -1,0 +1,10 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Django generated files
+*.pyc
+__pycache__/
+*.sqlite3
+
+# Ignore .env file
+.env
